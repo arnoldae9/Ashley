@@ -3,9 +3,12 @@
 
 ![](/imagenes/poligono_frecuencias_agrupados.webp)
 
+Ejemplo de ecuación:
+$$
 \begin{equation}
 x=4x^2
 \end{equation}
+$$
 
 2. Visite el siguiente sitio para ver la página de introducción: [Página Ashley](https://github.com/arnoldae9/Ashley).
 
