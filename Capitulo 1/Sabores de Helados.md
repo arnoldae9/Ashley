@@ -1,0 +1,6 @@
+| **Nivel de Medición** | **Ejemplo con Helados**                     | **Propiedades Clave**                          | **Operaciones Válidas**          |
+|-----------------------|--------------------------------------------|-----------------------------------------------|----------------------------------|
+| **Nominal**           | Sabores: vainilla, chocolate, fresa        | Sin orden. Solo categorías.                   | Conteo (moda). Ej: "El sabor más frecuente es chocolate". |
+| **Ordinal**           | Top de preferencia: 1° chocolate, 2° vainilla, 3° fresa | Orden claro, pero no hay distancia numérica. | Mediana. Ej: "El sabor en la posición 2° es vainilla". |
+| **Intervalo**         | Puntuación de sabor (0 a 100): vainilla=70, chocolate=85 | Distancias iguales, pero "0" no es ausencia real de sabor. | Suma/resta. Ej: "La diferencia de sabor entre chocolate y vainilla es 15 puntos". |
+| **Razón**             | Gramos de azúcar por porción: vainilla=20g, chocolate=30g | Cero absoluto (0g = ausencia de azúcar). | Multiplicación/división. Ej: "El chocolate tiene 1.5 veces más azúcar que la vainilla". |
