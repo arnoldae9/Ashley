@@ -47,9 +47,9 @@ Clasifica estas variables según su nivel de medición (Nominal, Ordinal, Interv
 
 ---
 
-<!-- ### **Respuestas**  -->
+### **Respuestas**
 
-<!-- **Parte 1**:  
+**Parte 1**:  
 1.  
    - Nominal: Categorías sin orden. Ej: Color de pelo.  
    - Ordinal: Categorías con orden. Ej: Talla de ropa (S, M, L).  
@@ -69,4 +69,4 @@ Clasifica estas variables según su nivel de medición (Nominal, Ordinal, Interv
 **Parte 3**:  
 1. Ordinal. Sí, la mediana puede identificarse ordenando las letras.  
 2. Razón. Sí, el cero es absoluto y las operaciones son válidas.  
-3. Ordinal. No se pueden calcular distancias exactas entre rangos. -->
+3. Ordinal. No se pueden calcular distancias exactas entre rangos.
