@@ -189,7 +189,7 @@ Basándote en esta información:
 *Nota: Este examen evalúa tanto la comprensión teórica como la aplicación práctica de las medidas de tendencia central y dispersión.*
 
 ---
-
+<!-- 
 # HOJA DE RESPUESTAS Y SOLUCIONES
 
 ## PARTE I: RESPUESTAS SELECCIÓN MÚLTIPLE
@@ -358,4 +358,4 @@ c) **Dispersión:** Moderada a alta
 ---
 
 ## RESPUESTAS PARTE I (CLAVE)
-1. b  2. c  3. c  4. b  5. c  6. b  7. c  8. b  9. b  10. a
+1. b  2. c  3. c  4. b  5. c  6. b  7. c  8. b  9. b  10. a -->
