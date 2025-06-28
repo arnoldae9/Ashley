@@ -101,7 +101,7 @@ Las medidas de dispersión indican qué tan esparcidos o concentrados están los
 **Coeficiente de Variación**
 - Medida relativa de dispersión expresada como porcentaje
 - Permite comparar la dispersión entre conjuntos de datos con diferentes unidades
-- Fórmula: $\text{CV} = \dfrac{\sigma}{\mu} \times 100\%$
+- Fórmula: $\text{CV} = \dfrac{\sigma}{\mu} \times 100$ %
 
 ### Interpretación:
 - **Dispersión baja**: Los datos están concentrados cerca del centro
