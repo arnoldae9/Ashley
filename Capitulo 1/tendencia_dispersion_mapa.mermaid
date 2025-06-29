@@ -1,0 +1,60 @@
+graph LR
+    A[Estadística Descriptiva] --> B[Tendencia Central]
+    A --> C[Dispersión]
+    
+    B --> D[Media Aritmética]
+    B --> E[Mediana]
+    B --> F[Moda]
+    
+    D --> D1[Media Poblacional μ]
+    D --> D2[Media Muestral x̄]
+    D --> D3[Media Ponderada x̃]
+    D --> D4[Media Posicional]
+    
+    E --> E1[Valor central de datos ordenados]
+    E --> E2[Robusta a valores extremos]
+    E --> E3[Impar: valor central<br/>Par: promedio de 2 centrales]
+    
+    F --> F1[Valor más frecuente]
+    F --> F2[Tipos según cantidad]
+    F2 --> F2a[Amodal: 0 modas]
+    F2 --> F2b[Unimodal: 1 moda]
+    F2 --> F2c[Bimodal: 2 modas]
+    F2 --> F2d[Trimodal: 3 modas]
+    F2 --> F2e[Polimodal: >3 modas]
+    
+    C --> G[Rango]
+    C --> H[Varianza]
+    C --> I[Desviación Estándar]
+    C --> J[Desviación Absoluta Media]
+    C --> K[Coeficiente de Variación]
+    
+    G --> G1[Máximo - Mínimo]
+    G --> G2[Sensible a valores extremos]
+    
+    H --> H1[Varianza Poblacional σ²]
+    H --> H2[Varianza Muestral s²]
+    H --> H3[Promedio desviaciones cuadráticas]
+    
+    I --> I1[Desviación Estándar Poblacional σ]
+    I --> I2[Desviación Estándar Muestral s]
+    I --> I3[Raíz cuadrada de la varianza]
+    I --> I4[Mismas unidades que datos originales]
+    
+    J --> J1[Promedio desviaciones absolutas]
+    J --> J2[Menos sensible a extremos]
+    
+    K --> K1[Medida relativa en %]
+    K --> K2[σ/μ × 100%]
+    K --> K3[Permite comparar conjuntos diferentes]
+    
+    A --> L[Cuándo Usar]
+    L --> L1[Datos simétricos sin extremos → Media]
+    L --> L2[Datos asimétricos con extremos → Mediana]
+    L --> L3[Datos categóricos → Moda]
+    L --> L4[Comparar dispersión → Coef. Variación]
+    
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#e8f5e8
+    style L fill:#fff3e0
