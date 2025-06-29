@@ -54,13 +54,13 @@ Se calcula siguiendo los siguientes 3 pasos:
 
 <center>
 
-|modas| -> |Tipo|
-|:---:|:---:|:---:|
-|0|->|Amodal|
-|1|->|Unimodal|
-|2|->|Bimodal|
-|3|->|Trimodal|
-|más de 3|->|Polimodal|
+|  modas   |  ->   |   Tipo    |
+| :------: | :---: | :-------: |
+|    0     |  ->   |  Amodal   |
+|    1     |  ->   | Unimodal  |
+|    2     |  ->   |  Bimodal  |
+|    3     |  ->   | Trimodal  |
+| más de 3 |  ->   | Polimodal |
 </center>
 
 ### Cuándo usar cada una:

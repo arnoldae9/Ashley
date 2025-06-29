@@ -26,6 +26,7 @@ c) Bimodal
 d) Polimodal
 
 **3.** La fórmula correcta para la varianza muestral es:
+
 a) $\sigma^2 = \dfrac{\sum{(x - \mu)^2}}{N}$
 b) $s^2 = \dfrac{\sum{(x - \overline{x})^2}}{n}$
 c) $s^2 = \dfrac{\sum{(x - \overline{x})^2}}{n-1}$
@@ -358,4 +359,5 @@ c) **Dispersión:** Moderada a alta
 ---
 
 ## RESPUESTAS PARTE I (CLAVE)
-1. b  2. c  3. c  4. b  5. c  6. b  7. c  8. b  9. b  10. a -->
+1. b  2. c  3. c  4. b  5. c  6. b  7. c  8. b  9. b  10. a
+-->
